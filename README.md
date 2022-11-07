@@ -72,7 +72,7 @@ sebagai contoh saya sertakan gambar di bawah ini
 
 '''
 
-####Mencari bilangan terbesar
+#### Mencari bilangan terbesar
 
 1. masukan a,b,c sebagai perintah inputan, kemudian tambahkan if menandakan a lebih besar dari c.
 2. lalu tekan titik dua makan akan seperti ini if a > c: lakukan juga hal yang sama pada y dan z.
