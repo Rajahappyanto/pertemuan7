@@ -70,13 +70,16 @@ sebagai contoh saya sertakan gambar di bawah ini
 
 ![scs4](foto/scs4.png)
 
+'''
+
 ####Mencari bilangan terbesar
+
 1. masukan a,b,c sebagai perintah inputan, kemudian tambahkan if menandakan a lebih besar dari c.
 2. lalu tekan titik dua makan akan seperti ini if a > c: lakukan juga hal yang sama pada y dan z.
 3. kemudian masukan bilangan terbesar lalu tambahkan elif dan else sebagai penambah aksi sebagai penentu a lebih besar dari c dan b lebih besar dari c. maka kodingan setelah dirunningnya seperti ini.
 
 
-![scs5]foto/scs5.png
+![scs5](foto/scs5.png)
 
 #### mencari nilai n yang terbesar jumlah-nya
 1. masukan max = 0. fungsinya adalah untuk mengetahui nilai terbesarnya.
@@ -87,7 +90,7 @@ sebagai contoh saya sertakan gambar di bawah ini
 6. masukan perintah if x==0:
 7. lalu tekan enter dan ketik break
 
-![scs6]foto/scs6.png
+![scs6](foto/scs6.png)
 
 
 #### Total laba bulan 1 sampai 8
@@ -95,7 +98,7 @@ sebagai contoh saya sertakan gambar di bawah ini
 2. masukan perintah for x in range (1,9)
 3. supaya ada 9 buah masukan if seperti gambar dibawah ini kemudia print total laba
 
-![scs7]foto/scs7.png
+![scs7](foto/scs7.png)
 
 
 ## atas perhatiannya saya ucapkan terimakasih, apabila banyak penjelasan saya yang kurang dapat untuk di pahami saya minta maaf.
